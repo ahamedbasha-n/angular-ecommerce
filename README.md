@@ -10,7 +10,3 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`
 ## Functionality Page
 
 Navigate to `http://localhost:4200/products` to view the UI of the Page.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component.
